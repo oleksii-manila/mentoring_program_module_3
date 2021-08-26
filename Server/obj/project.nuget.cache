@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r6zr3Lp77rYgWMioGFOLFkPoWH+2+4FQb9+HW/aP08DiIm/GLW8CSejqWWXJp0oAtSC7ZdznCCaLmArCxTJsDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oleksii_Manila\\source\\repos\\mentoring_program_module_3\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

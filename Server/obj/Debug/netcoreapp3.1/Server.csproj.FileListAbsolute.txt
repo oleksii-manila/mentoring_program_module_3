@@ -1,0 +1,16 @@
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Oleksii_Manila\source\repos\mentoring_program_module_3\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
